@@ -1,8 +1,18 @@
-/* Copyright (c) 2020 MTHS All rights reserved
+/* Copyright (c) 2023 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: Sep 2020
+ * Created by: william simard
+ * Created on: nov 2023
  * This program ...
 */
 
-basic.showString('Hello, World!')
+//setup
+basic.showIcon(IconNames.Happy)
+
+//loop forever 
+while (true) {
+  if (input.buttonIsPressed(Button.A) == true) {
+      
+    
+  }
+
+}
